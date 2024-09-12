@@ -1,0 +1,9 @@
+train: /content/drive/My Drive/hey/train/images
+val: /content/drive/My Drive/hey/valid/images
+test: /content/drive/My Drive/hey/test/images
+
+nc: 6
+names: ['CLIENT', 'COMPANY', 'INVOICE', 'PAYMENT', 'TABLE', 'TOTAL']
+
+
+
