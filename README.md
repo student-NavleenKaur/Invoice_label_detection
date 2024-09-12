@@ -10,7 +10,7 @@ Using the Dataset with Google Colab
 Follow these instructions to use the dataset with the provided Google Colab notebook:
 
 1. Open the Google Colab Notebook
-Navigate to the Google Colab notebook in this repository present in [invoice_label_extraction.ipyn](invoice_label_extraction.ipynb).
+Navigate to the [python file](Invoice_label_extraction.ipynb) present in this repository containing the code..
 
 2. Mount Google Drive
 In the Google Colab notebook, you need to mount your Google Drive to access the dataset.
